@@ -21,12 +21,7 @@ HTML
 CSS
 JavaScript
 
-📂 Project Structure
-/pig-game
-│── index.html
-│── style.css
-│── script.js
-│── dice-1.png ... dice-6.png
+
 
 📚 Learning Context
 
@@ -43,3 +38,5 @@ This project focuses on basic JavaScript concepts such as:
 DOM manipulation
 Event handling
 Game state management
+
+![Pig Game Screenshot](Screenshot 2026-03-30 203217.png)
