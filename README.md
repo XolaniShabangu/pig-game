@@ -39,4 +39,4 @@ DOM manipulation
 Event handling
 Game state management
 
-![Pig Game Screenshot](Screenshot 2026-03-30 203217.png)
+![Pig Game Screenshot](piggame.png)
